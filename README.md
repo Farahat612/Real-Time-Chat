@@ -4,7 +4,8 @@ A simple real-time chat web application built using Python, Django, and Ajax. Th
 
 ## Project Overview
 
-The Real-Time Chat Web App is a simple yet powerful web application that allows users to communicate with each other in real-time. The app utilizes the Django web framework, which provides a solid foundation for building robust and scalable web applications.
+The Real-Time Chat Web App is a simple yet powerful web application that allows users to communicate with each other in real-time. The app utilizes the Django web framework.
+You can watch a demo here if interested: https://tinyurl.com/RTC-app
 
 ## Features
 
